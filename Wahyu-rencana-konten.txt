@@ -6,6 +6,7 @@ Rencana Konten
   ^ react
 - Struktur data dasar
 - PHP Frameworks 
+  ^ Laravel
 - Interview 
 - VLogs 
 - Phyton
