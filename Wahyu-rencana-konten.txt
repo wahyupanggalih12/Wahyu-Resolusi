@@ -2,9 +2,11 @@ Rencana Konten
 - Javascript 
 *ES 6 
 *Framework Javascript 
-  ^ Angular 
-  ^ React 
+  ^ Vue
+  ^ react
+- Struktur data dasar
 - PHP Frameworks 
   ^ Laravel
 - Interview 
 - VLogs 
+- Phyton
